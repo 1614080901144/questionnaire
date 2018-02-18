@@ -1,0 +1,8 @@
+### IntelliJ IDEA ###
+.idea
+target/
+*.iml
+.mvn/
+mvnw
+mvnw.cmd
+imgs/
