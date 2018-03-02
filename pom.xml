@@ -8,6 +8,7 @@
   <name>questionnaire Maven Webapp</name>
   
   <properties>
+	  	<java.version>1.8</java.version>
 		<junit.version>4.12</junit.version>
 		<spring.version>4.2.4.RELEASE</spring.version>
 		<mybatis.version>3.2.8</mybatis.version>
